@@ -15,4 +15,4 @@ EX:
 
 1100049;Cacoal; Rondônia;88507
 
-OBS: Conseidere sem os espacos que deixei acima, junte-os no arquivo.txt
+OBS: Considere sem os espacos que deixei acima, junte-os no arquivo.txt
