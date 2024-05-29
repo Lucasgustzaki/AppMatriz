@@ -6,6 +6,7 @@ Projete e escreva um programa que leia este arquivo. Após a leitura do arquivo,
 EX:
 
 ódigo IBGE;Cidade;Estado;População 
+
 1100015;Alta Floresta d'Oeste; Rondônia;25437
 
 1100023;Ariquemes; Rondônia;107345
@@ -14,3 +15,4 @@ EX:
 
 1100049;Cacoal; Rondônia;88507
 
+OBS: Conseidere sem os espacos que deixei acima, junte-os no arquivo.txt
