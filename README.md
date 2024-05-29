@@ -6,8 +6,12 @@ Projete e escreva um programa que leia este arquivo. Após a leitura do arquivo,
 EX:
 
 ódigo IBGE;Cidade;Estado;População 
+
 1100015;Alta Floresta d'Oeste; Rondônia;25437
+
 1100023;Ariquemes; Rondônia;107345
+
 1100031;Cabixi; Rondônia;6224
+
 1100049;Cacoal; Rondônia;88507
 
